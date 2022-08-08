@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "47572333443",
+    "project_id": "sell-a",
+    "storage_bucket": "sell-a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47572333443:android:fb09aca9cb0b08102f3cb6",
+        "android_client_info": {
+          "package_name": "billpat.sellapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47572333443-18v9k6p1i2pk76s0bgf3598mm2dvr081.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzzVX9zrcTBmKfA20tCh3899fRZhmBNQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47572333443-18v9k6p1i2pk76s0bgf3598mm2dvr081.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47572333443-v6deie78ipgdqtr0rit5bhgphnp169t7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "billplatt.sellapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
